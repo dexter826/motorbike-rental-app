@@ -184,7 +184,3 @@ flutter build web --release
 |-- pubspec.yaml             # Dependencies và asset declarations
 `-- README.md
 ```
-
-## Ghi chú
-
-Repository hiện không có file `LICENSE`, vì vậy README không gán license cho dự án.
