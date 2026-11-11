@@ -184,3 +184,7 @@ flutter build web --release
 |-- pubspec.yaml             # Dependencies và asset declarations
 `-- README.md
 ```
+
+## License
+
+Phân phối theo giấy phép [MIT](./LICENSE).
